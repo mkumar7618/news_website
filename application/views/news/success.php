@@ -1,0 +1,1 @@
+<h2>News was uploaded successfully</h2>
